@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='utf-8'?>
+<regras>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ant</texto>
+    <genero>0</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-el</texto>
+    <genero>0</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-en</texto>
+    <genero>0</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ent</texto>
+    <genero>0</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-er</texto>
+    <genero>0</genero>
+    <frequencia>5</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ig</texto>
+    <genero>0</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-isch</texto>
+    <genero>0</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ismus</texto>
+    <genero>0</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ling</texto>
+    <genero>0</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-or</texto>
+    <genero>0</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-us</texto>
+    <genero>0</genero>
+    <frequencia>4</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Alkohol</texto>
+    <genero>0</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Automarken</texto>
+    <genero>0</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Kaffee_Tee</texto>
+    <genero>0</genero>
+    <frequencia>5</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Käse</texto>
+    <genero>0</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Monate</texto>
+    <genero>0</genero>
+    <frequencia>5</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Substantiv_von_Infinitiv_ohne_-en</texto>
+    <genero>0</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Wochentage</texto>
+    <genero>0</genero>
+    <frequencia>5</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">von_Himmel</texto>
+    <genero>0</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Währungen</texto>
+    <genero>0</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">1-Silbe</texto>
+    <genero>0</genero>
+    <frequencia>1</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ät</texto>
+    <genero>1</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-e</texto>
+    <genero>1</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ei</texto>
+    <genero>1</genero>
+    <frequencia>4</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-enz</texto>
+    <genero>1</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-heit</texto>
+    <genero>1</genero>
+    <frequencia>5</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ie</texto>
+    <genero>1</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ik</texto>
+    <genero>1</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-in</texto>
+    <genero>1</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ion</texto>
+    <genero>1</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-schaft</texto>
+    <genero>1</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-thek</texto>
+    <genero>1</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-tion</texto>
+    <genero>1</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-tur</texto>
+    <genero>1</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ung</texto>
+    <genero>1</genero>
+    <frequencia>5</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-[k]t</texto>
+    <genero>1</genero>
+    <frequencia>2</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Früchte</texto>
+    <genero>1</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Zahlen</texto>
+    <genero>1</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-al</texto>
+    <genero>2</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ar</texto>
+    <genero>2</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-at</texto>
+    <genero>2</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-chen</texto>
+    <genero>2</genero>
+    <frequencia>5</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-et</texto>
+    <genero>2</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ett</texto>
+    <genero>2</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ier</texto>
+    <genero>2</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ing</texto>
+    <genero>2</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-ment</texto>
+    <genero>2</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-o</texto>
+    <genero>2</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-tel</texto>
+    <genero>2</genero>
+    <frequencia>4</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-um</texto>
+    <genero>2</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">-zeug</texto>
+    <genero>2</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">ge-</texto>
+    <genero>2</genero>
+    <frequencia>0</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Buchstaben</texto>
+    <genero>2</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">English_Wörter</texto>
+    <genero>2</genero>
+    <frequencia>4</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Farben</texto>
+    <genero>2</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Gramm</texto>
+    <genero>2</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Metalle</texto>
+    <genero>2</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Sportarten</texto>
+    <genero>2</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Telefon</texto>
+    <genero>2</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Sprachen</texto>
+    <genero>2</genero>
+    <frequencia>5</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Substantiv_von_Infinitiv</texto>
+    <genero>2</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Länder</texto>
+    <genero>3</genero>
+    <frequencia>3</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Namen</texto>
+    <genero>3</genero>
+    <frequencia>5</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Städte</texto>
+    <genero>3</genero>
+    <frequencia>5</frequencia>
+  </regra>
+  <regra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Jahreszeiten</texto>
+    <genero>0</genero>
+    <frequencia>5</frequencia>
+  </regra>
+</regras>

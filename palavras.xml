@@ -1,0 +1,867 @@
+<?xml version='1.0' encoding='utf-8'?>
+<palavras>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Birne</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+    <regra>Früchte</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Auto</texto>
+    <genero>2</genero>
+    <regra>-o</regra>
+    <plural>-s</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Apfel</texto>
+    <genero>0</genero>
+    <regra>-el</regra>
+    <excecao>Früchte</excecao>
+    <plural>"-</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Deutschland</texto>
+    <genero>3</genero>
+    <regra>Länder</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Buch</texto>
+    <genero>2</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Banane</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+    <regra>Früchte</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Tasche</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Tee</texto>
+    <genero>0</genero>
+    <regra>Kaffee</regra>
+    <excecao>-e</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Pizza</texto>
+    <genero>1</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Taxi</texto>
+    <genero>2</genero>
+    <regra>English_Wörter</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Fußball</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Hamburger</texto>
+    <genero>0</genero>
+    <regra>-er</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Computer</texto>
+    <genero>0</genero>
+    <regra>-er</regra>
+    <plural>-</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Hotel</texto>
+    <genero>2</genero>
+    <regra>English_Wörter</regra>
+    <excecao>-el</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Bus</texto>
+    <genero>0</genero>
+    <regra>-us</regra>
+    <regra>1-Silbe</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Gitarre</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Radio</texto>
+    <genero>2</genero>
+    <regra>-o</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Museum</texto>
+    <genero>2</genero>
+    <regra>-um</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Disco</texto>
+    <genero>1</genero>
+    <excecao>-o</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Zug</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Flugzeug</texto>
+    <genero>2</genero>
+    <regra>-zeug</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Brücke</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Fahrrad</texto>
+    <genero>2</genero>
+    <excecao>1-Silbe</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Blume</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Fluss</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Stadt</texto>
+    <genero>1</genero>
+    <regra>-[k]t</regra>
+    <excecao>1-Silbe</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Hund</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Klavier</texto>
+    <genero>2</genero>
+    <regra>-ier</regra>
+    <excecao>-er</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Schiff</texto>
+    <genero>2</genero>
+    <excecao>1-Silbe</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Katze</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Brasilien</texto>
+    <genero>3</genero>
+    <regra>Länder</regra>
+    <excecao>-en</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Wagen</texto>
+    <genero>0</genero>
+    <regra>-en</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Maus</texto>
+    <genero>1</genero>
+    <plural>"-e</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Mamut</texto>
+    <genero>0</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Jaguar</texto>
+    <genero>0</genero>
+    <excecao>-ar</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Affe</texto>
+    <genero>0</genero>
+    <excecao>-e</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Antilope</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Delfin</texto>
+    <genero>0</genero>
+    <excecao>-in</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Bär</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Elefant</texto>
+    <genero>0</genero>
+    <regra>-ant</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Esel</texto>
+    <genero>0</genero>
+    <regra>-el</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Eule</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Frosch</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Giraffe</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Hahn</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Kamel</texto>
+    <genero>2</genero>
+    <excecao>-el</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Känguru</texto>
+    <genero>2</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Krokodil</texto>
+    <genero>2</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Löwe</texto>
+    <genero>0</genero>
+    <excecao>-e</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Nashorn</texto>
+    <genero>2</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Papagei</texto>
+    <genero>0</genero>
+    <excecao>-ei</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Schildkröte</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Schlange</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Schnecke</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Schwein</texto>
+    <genero>2</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Strauß</texto>
+    <genero>0</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Tiger</texto>
+    <genero>0</genero>
+    <regra>-er</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Hase</texto>
+    <genero>0</genero>
+    <excecao>-e</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Igel</texto>
+    <genero>0</genero>
+    <regra>-el</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Vogel</texto>
+    <genero>0</genero>
+    <regra>-el</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Wal</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+    <excecao>-al</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Zebra</texto>
+    <genero>2</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Leguan</texto>
+    <genero>0</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Panda</texto>
+    <genero>0</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Pferd</texto>
+    <genero>2</genero>
+    <excecao>1-Silbe</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Qualle</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Tier</texto>
+    <genero>2</genero>
+    <excecao>-er</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Orang Utan</texto>
+    <genero>0</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Mai</texto>
+    <genero>0</genero>
+    <regra>Monate</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Januar</texto>
+    <genero>0</genero>
+    <regra>Monate</regra>
+    <excecao>-ar</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Februar</texto>
+    <genero>0</genero>
+    <regra>Monate</regra>
+    <excecao>-ar</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">März</texto>
+    <genero>0</genero>
+    <regra>Monate</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">April</texto>
+    <genero>0</genero>
+    <regra>Monate</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Juni</texto>
+    <genero>0</genero>
+    <regra>Monate</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Juli</texto>
+    <genero>0</genero>
+    <regra>Monate</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">September</texto>
+    <genero>0</genero>
+    <regra>-er</regra>
+    <regra>Monate</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Oktober</texto>
+    <genero>0</genero>
+    <regra>-er</regra>
+    <regra>Monate</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">November</texto>
+    <genero>0</genero>
+    <regra>-er</regra>
+    <regra>Monate</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">August</texto>
+    <genero>0</genero>
+    <regra>Monate</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Dezember</texto>
+    <genero>0</genero>
+    <regra>-er</regra>
+    <regra>Monate</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Montag</texto>
+    <genero>0</genero>
+    <regra>Wochentage</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Dienstag</texto>
+    <genero>0</genero>
+    <regra>Wochentage</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Mittwoch</texto>
+    <genero>0</genero>
+    <regra>Wochentage</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Donnerstag</texto>
+    <genero>0</genero>
+    <regra>Wochentage</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Freitag</texto>
+    <genero>0</genero>
+    <regra>Wochentage</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Samstag</texto>
+    <genero>0</genero>
+    <regra>Wochentage</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Sonntag</texto>
+    <genero>0</genero>
+    <regra>Wochentage</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Frühling</texto>
+    <genero>0</genero>
+    <regra>-ling</regra>
+    <regra>Jahreszeiten</regra>
+    <excecao>-ing</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Herbst</texto>
+    <genero>0</genero>
+    <regra>Jahreszeiten</regra>
+    <excecao>-[k]t</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Sommer</texto>
+    <genero>0</genero>
+    <regra>-er</regra>
+    <regra>Jahreszeiten</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Winter</texto>
+    <genero>0</genero>
+    <regra>-er</regra>
+    <regra>Jahreszeiten</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Schule</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+    <plural>-n</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Büro</texto>
+    <genero>2</genero>
+    <regra>-o</regra>
+    <plural>-s</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Zimmer</texto>
+    <genero>2</genero>
+    <excecao>-er</excecao>
+    <plural>-</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Lehrerin</texto>
+    <genero>1</genero>
+    <regra>-in</regra>
+    <plural>-en</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Mann</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+    <plural>"-er</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Kuli</texto>
+    <genero>0</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Kursbuch</texto>
+    <genero>2</genero>
+    <excecao>1-Silbe</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Wörterbuch</texto>
+    <genero>2</genero>
+    <excecao>1-Silbe</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Tafel</texto>
+    <genero>1</genero>
+    <excecao>-el</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Deutschlehrerin</texto>
+    <genero>1</genero>
+    <regra>-in</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Frau</texto>
+    <genero>1</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Radiergummi</texto>
+    <genero>0</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Stuhl</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Lehrer</texto>
+    <genero>0</genero>
+    <regra>-er</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Mutter</texto>
+    <genero>1</genero>
+    <excecao>-er</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Schüler</texto>
+    <genero>0</genero>
+    <regra>-er</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Haus</texto>
+    <genero>2</genero>
+    <plural>"-er</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Fenster</texto>
+    <genero>2</genero>
+    <excecao>-er</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Schülerin</texto>
+    <genero>1</genero>
+    <regra>-in</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Tür</texto>
+    <genero>1</genero>
+    <excecao>1-Silbe</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Geld</texto>
+    <genero>2</genero>
+    <excecao>1-Silbe</excecao>
+    <plural>-er</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Kind</texto>
+    <genero>2</genero>
+    <excecao>1-Silbe</excecao>
+    <plural>-er</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Familie</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Motorrad</texto>
+    <genero>2</genero>
+    <excecao>1-Silbe</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Kühlschrank</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+    <plural>"-e</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Bett</texto>
+    <genero>2</genero>
+    <regra>-ett</regra>
+    <excecao>1-Silbe</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Sessel</texto>
+    <genero>0</genero>
+    <regra>-el</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Rathaus</texto>
+    <genero>2</genero>
+    <plural>"-er</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Schrank</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+    <plural>"-e</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Mädchen</texto>
+    <genero>2</genero>
+    <regra>-chen</regra>
+    <excecao>-en</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Küche</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Monat</texto>
+    <genero>0</genero>
+    <regra>Monate</regra>
+    <excecao>-at</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Jahr</texto>
+    <genero>2</genero>
+    <excecao>1-Silbe</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Name</texto>
+    <genero>0</genero>
+    <excecao>-e</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Mensch</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Heft</texto>
+    <genero>2</genero>
+    <excecao>1-Silbe</excecao>
+    <excecao>-[k]t</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Tisch</texto>
+    <genero>0</genero>
+    <regra>-isch</regra>
+    <regra>1-Silbe</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Tag</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Hannover</texto>
+    <genero>3</genero>
+    <regra>Städte</regra>
+    <excecao>-er</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Wohnung</texto>
+    <genero>1</genero>
+    <regra>-ung</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Ahnung</texto>
+    <genero>1</genero>
+    <regra>-ung</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Hamburg</texto>
+    <genero>3</genero>
+    <regra>Städte</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Wort</texto>
+    <genero>2</genero>
+    <excecao>1-Silbe</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Musik</texto>
+    <genero>1</genero>
+    <regra>-ik</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Nummer</texto>
+    <genero>1</genero>
+    <excecao>-er</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Telefonnummer</texto>
+    <genero>1</genero>
+    <excecao>-er</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Paul</texto>
+    <genero>3</genero>
+    <regra>Namen</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Maria</texto>
+    <genero>3</genero>
+    <regra>Namen</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Berlin</texto>
+    <genero>3</genero>
+    <regra>Städte</regra>
+    <excecao>-in</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Satz</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Hans</texto>
+    <genero>3</genero>
+    <regra>Namen</regra>
+    <excecao>1-Silbe</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Lisa</texto>
+    <genero>3</genero>
+    <regra>Namen</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Frage</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Deutsch</texto>
+    <genero>2</genero>
+    <regra>Sprachen</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Michael</texto>
+    <genero>3</genero>
+    <regra>Namen</regra>
+    <excecao>-el</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Monika</texto>
+    <genero>3</genero>
+    <regra>Namen</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Milch</texto>
+    <genero>1</genero>
+    <excecao>1-Silbe</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Lied</texto>
+    <genero>2</genero>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Schach</texto>
+    <genero>2</genero>
+    <excecao>1-Silbe</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Wasser</texto>
+    <genero>2</genero>
+    <excecao>-er</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Frankreich</texto>
+    <genero>3</genero>
+    <regra>Länder</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Tochter</texto>
+    <genero>1</genero>
+    <excecao>-er</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Geschirr</texto>
+    <genero>2</genero>
+    <regra>ge-</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Essen</texto>
+    <genero>2</genero>
+    <regra>Substantiv_von_Infinitiv</regra>
+    <excecao>-en</excecao>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Suppe</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Melodie</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Freund</texto>
+    <genero>0</genero>
+    <plural>-e</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Tasse</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+    <plural>-n</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Koffer</texto>
+    <genero>0</genero>
+    <regra>-er</regra>
+    <plural>-</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Straße</texto>
+    <genero>1</genero>
+    <regra>-e</regra>
+    <plural>-n</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Löffel</texto>
+    <genero>0</genero>
+    <regra>-el</regra>
+    <plural>-</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Schuh</texto>
+    <genero>0</genero>
+    <regra>1-Silbe</regra>
+    <plural>-e</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Wand</texto>
+    <genero>1</genero>
+    <excecao>1-Silbe</excecao>
+    <plural>"-e</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Hand</texto>
+    <genero>1</genero>
+    <excecao>1-Silbe</excecao>
+    <plural>"-e</plural>
+  </palavra>
+  <palavra>
+    <texto xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">Schulhaus</texto>
+    <genero>2</genero>
+    <plural>"-er</plural>
+  </palavra>
+</palavras>
