@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
 # main.py
@@ -278,9 +278,15 @@ class GUI:
 
         self.MSG.push(self.MSGid, 'Entrou...')
         if combo.has_focus():
-            print 'tem foco'
+            if sys.version_info[0] == 2:
+                print 'tem foco'
+            else:
+                print('tem foco')
         else:
-            print 'sem foco'
+            if sys.version_info[0] == 2:
+                print 'sem foco'
+            else:
+                print('sem foco')
         self.MSG.push(self.MSGid, 'Saiu.')
 
         return True
