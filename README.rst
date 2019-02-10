@@ -8,10 +8,10 @@ Purpose: language learning.
 
 Features:
 
-    Articles test;
-    (future) Plurals test;
-    (future) Verbs conjugation test; and
-    (future) Find mistakes on text test.
+- Articles test;
+- (future) Plurals test;
+- (future) Verbs conjugation test; and
+- (future) Find mistakes on text test.
 
 Index
 ======
